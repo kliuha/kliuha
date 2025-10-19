@@ -7,6 +7,11 @@
   <br />
   I love building scalable, high-performance web applications and am passionate about clean architecture.
 </p>
+<p align="center">
+<a href="https://portfolio-ecru-zeta-4w86hxxoxo.vercel.app/" target="_blank">
+  🌐 Visit my portfolio
+</a>
+</p>
 
 ---
 
