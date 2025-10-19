@@ -40,7 +40,9 @@ My approach to development is centered on building solutions that are not just f
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kliuha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kliuha&layout=compact&theme=tokyonight&hide_border=true" alt="My Top Languages" />
-  [![Illia Kliuha profile views](https://u8views.com/api/v1/github/profiles/71008959/views/day-week-month-total-count.svg)](https://u8views.com/github/kliuha)
+  
+[![Illia Kliuha profile views](https://u8views.com/api/v1/github/profiles/71008959/views/day-week-month-total-count.svg)](https://u8views.com/github/kliuha)
+ 
 </p>
 
 ---
